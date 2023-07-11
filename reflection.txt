@@ -1,0 +1,1 @@
+We learned about many concepts of AgitI, such as Good Old Fashioned AI which acted like many if else statements.
